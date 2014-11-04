@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: evt.com.dc_locator" />
+        <option name="packageNamePattern" value="evt.com.dc_locator" />
+      </filter>
+      <filter>
+        <option name="name" value="app: com.evilgeniustechnologies.dclocator" />
+        <option name="packageNamePattern" value="com.evilgeniustechnologies.dclocator" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="showDeviceFrames" value="false" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <devices>
+          <device id="Nexus 5" />
+        </devices>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/chat_item.xml">
+        <config>
+          <theme>@android:style/Theme.Holo.Light</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/new_group.xml">
+        <config>
+          <theme>@android:style/Theme.Holo</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/tabbar_fragment.xml">
+        <config>
+          <theme>@android:style/Theme.Holo.Light</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.evilgeniustechnologies.dclocator" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66664343-2706-4255-b7d8-a800eb697a6a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/dc_locator_android/dc-locator-android.apk" afterPath="$PROJECT_DIR$/out/artifacts/dc_locator_android/dc-locator-android.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/adapters/SearchResultAdapter.java" afterPath="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/adapters/SearchResultAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/UserProFileFragment.java" afterPath="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/UserProFileFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/navigation_home_user_profile_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/navigation_home_user_profile_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="7f7382e3-a3b5-443e-a8f1-a8c7ebd5f010" name="Ignored" comment="Ignored" />
+    <ignored path="dc-locator-android.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="bin/" />
+    <ignored path="../appcompat_v7/bin/" />
+    <ignored path="../google-play-services_lib/bin/" />
+    <ignored path="R.java" />
+    <ignored path="../google-play-services_lib/gen/" />
+    <ignored path="../appcompat_v7/gen/" />
+    <ignored path="gen/" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dc-locator-android" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="2466">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#5295#5319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewGroupFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/NewGroupFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1584">
+              <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/HomeFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5006" max-vertical-offset="8172">
+              <caret line="381" column="21" selection-start-line="381" selection-start-column="21" selection-end-line="381" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatsFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/ChatsFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="812" max-vertical-offset="1602">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/SearchFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3800" max-vertical-offset="4428">
+              <caret line="261" column="54" selection-start-line="261" selection-start-column="54" selection-end-line="261" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListFragmentResult.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/ListFragmentResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="943" max-vertical-offset="1584">
+              <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchResultAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/adapters/SearchResultAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1350">
+              <caret line="76" column="61" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProFileFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/UserProFileFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0325814" vertical-offset="1478" max-vertical-offset="2106">
+              <caret line="132" column="56" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation_home_user_profile_fragment.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/navigation_home_user_profile_fragment.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.769231" vertical-offset="270" max-vertical-offset="882">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/daos/LocationDao.java" />
+        <option value="$PROJECT_DIR$/src/daos/Group.java" />
+        <option value="$PROJECT_DIR$/src/daos/EntityConnection.java" />
+        <option value="$PROJECT_DIR$/src/daos/LikedConnection.java" />
+        <option value="$PROJECT_DIR$/src/daos/ReadConnection.java" />
+        <option value="$PROJECT_DIR$/src/daos/Metadata.java" />
+        <option value="$PROJECT_DIR$/src/generator/Main.java" />
+        <option value="$PROJECT_DIR$/src/fragments/ChatsFragment.java" />
+        <option value="$PROJECT_DIR$/src/receiver/Receiver.java" />
+        <option value="$PROJECT_DIR$/src/dc_locator/MainViewActivity.java" />
+        <option value="$PROJECT_DIR$/src/daos/MessageGroup.java" />
+        <option value="$PROJECT_DIR$/src/daos/Message.java" />
+        <option value="$PROJECT_DIR$/src/adapters/GroupAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/search_fragment.xml" />
+        <option value="$PROJECT_DIR$/src/adapters/ChatListAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/navigation_chats_fragment.xml" />
+        <option value="$PROJECT_DIR$/res/layout/navigation_chat_conversation.xml" />
+        <option value="$PROJECT_DIR$/res/layout/navagation_new_group_next.xml" />
+        <option value="$PROJECT_DIR$/res/layout/navigation_add_contact.xml" />
+        <option value="$PROJECT_DIR$/src/dc_locator/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/src/adapters/ListPersonAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/add_contact.xml" />
+        <option value="$PROJECT_DIR$/res/layout/navigation_chat_fragment_search_member.xml" />
+        <option value="$PROJECT_DIR$/src/fragments/AddContactFragment.java" />
+        <option value="$PROJECT_DIR$/src/local/Datastore.java" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_list_result.xml" />
+        <option value="$PROJECT_DIR$/src/adapters/SearchResultAdapter.java" />
+        <option value="$PROJECT_DIR$/src/fragments/ConversationFragment.java" />
+        <option value="$PROJECT_DIR$/src/fragments/UserProFileFragment.java" />
+        <option value="$PROJECT_DIR$/src/fragments/MyProfileFragment.java" />
+        <option value="$PROJECT_DIR$/src/fragments/AllPeopleChatFragment.java" />
+        <option value="$PROJECT_DIR$/src/fragments/SearchFragment.java" />
+        <option value="$PROJECT_DIR$/src/service/ParseService.java" />
+        <option value="$PROJECT_DIR$/src/fragments/ListFragmentResult.java" />
+        <option value="$PROJECT_DIR$/res/layout/infor_windows_layout.xml" />
+        <option value="$PROJECT_DIR$/src/adapters/HomeListAdapter.java" />
+        <option value="$PROJECT_DIR$/src/daos/Location.java" />
+        <option value="$PROJECT_DIR$/src/daos/Member.java" />
+        <option value="$PROJECT_DIR$/src/fragments/HomeFragment.java" />
+        <option value="$PROJECT_DIR$/res/layout/item_person_list.xml" />
+        <option value="$PROJECT_DIR$/src/application/DCApplication.java" />
+        <option value="$PROJECT_DIR$/src/asynctasks/RestClient.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/item_search_person_tab_search.xml" />
+        <option value="$PROJECT_DIR$/res/layout/item_contact.xml" />
+        <option value="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/ChatsFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/NewGroupFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/HomeFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/adapters/SearchResultAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/navigation_home_user_profile_fragment.xml" />
+        <option value="$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/UserProFileFragment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="740" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="type" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receiver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dialogs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc_locator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asynctasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dclocator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dc-locator-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wordrific-android/Wordrific/app/src/main/java/com/evilgeniustechnologies/Wordrific/adapters/RootAdapter.java" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="UserPro&#9;PSI&#9;JAVA://com.evilgeniustechnologies.dclocator.fragments.UserProFileFragment&#10;Mem&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/models/Member.java&#10;Home&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/fragments/HomeFragment.java&#10;Member&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/daos/Member.java&#10;hint&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/fragments/FragmentHint.java&#10;searc&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/fragments/SearchFragment.java&#10;Datast&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/local/Datastore.java&#10;Parse&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/service/ParseService.java&#10;LoginA&#9;PSI&#9;JAVA://dc_locator.LoginActivity&#10;Chats&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/fragments/ChatsFragment.java&#10;datasto&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/local/Datastore.java&#10;datast&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/local/Datastore.java&#10;da&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/application/DCApplication.java&#10;main&#9;FILE&#9;file:///home/benjamin/AndroidStudioProjects/dc-locator-android/dc-locator-android/src/dc_locator/MainViewActivity.java&#10;alreadyReadMessageIds&#9;PSI&#9;JAVA://util.Utils#getAlreadyReadMessageIDs" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_5_by_Google" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/libs" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/asynctasks" />
+      <recent name="$PROJECT_DIR$/src/application" />
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/res/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
+      <recent name="$PROJECT_DIR$/res/drawable" />
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.evilgeniustechnologies.dclocator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.app">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evilgeniustechnologies.dclocator.generator.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dc-locator-android" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="dc-locator-android" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="dc-locator-android" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dc-locator-android" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66664343-2706-4255-b7d8-a800eb697a6a" name="Default" comment="" />
+      <changelist id="7f7382e3-a3b5-443e-a8f1-a8c7ebd5f010" name="Ignored" comment="" />
+      <created>1412159280727</created>
+      <updated>1412159280727</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lazy Load">
+      <created>1412160177775</created>
+      <updated>1412160177775</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lazy Load">
+      <created>1412160738534</created>
+      <updated>1412160738534</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge completes">
+      <created>1412162195352</created>
+      <updated>1412162195352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Search">
+      <created>1412165051071</created>
+      <updated>1412165051071</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Search">
+      <created>1412225751513</created>
+      <updated>1412225751513</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Search">
+      <created>1412227692443</created>
+      <updated>1412227692443</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Crashlytics">
+      <created>1412229339622</created>
+      <updated>1412229339622</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1412243121902</created>
+      <updated>1412243121902</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1412391805649</created>
+      <updated>1412391805649</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge">
+      <created>1412398355946</created>
+      <updated>1412398355946</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge">
+      <created>1412508455291</created>
+      <updated>1412508455291</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge">
+      <created>1412596740584</created>
+      <updated>1412596740584</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge">
+      <created>1412596790737</created>
+      <updated>1412596790737</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge">
+      <created>1412741504591</created>
+      <updated>1412741504591</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge">
+      <created>1412741697876</created>
+      <updated>1412741697876</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ParseService">
+      <created>1412760898170</created>
+      <updated>1412760898170</updated>
+    </task>
+    <task id="LOCAL-00017" summary="merge">
+      <created>1412838109431</created>
+      <updated>1412838109431</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge branch 'master' of https://bitbucket.org/EvilGenius/dc-locator-android&#10;&#10;Conflicts:&#10;&#9;dc-locator-android/bin/classes/Adapter/ChatListAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter$ItemListener.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/HomeListAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListPersonAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListTabChatAdapter$MessageTask$1.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListTabChatAdapter$MessageTask.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListTabChatAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/SearchResultAdapter.class&#10;&#9;dc-locator-android/bin/classes/Asyncstask/LoginAsyncstask$1.class&#10;&#9;dc-locator-android/bin/classes/Asyncstask/LoginAsyncstask$2.class&#10;&#9;dc-locator-android/bin/classes/Asyncstask/LoginAsyncstask.class&#10;&#9;dc-locator-android/bin/classes/Dialog/CheckinDialog.class&#10;&#9;dc-locator-android/bin/classes/Dialog/WheelBirthdayDialog$1.class&#10;&#9;dc-locator-android/bin/classes/Dialog/WheelBirthdayDialog.class&#10;&#9;dc-locator-android/bin/classes/application/DCApplication.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$attr.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$color.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$drawable.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$id.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$integer.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$string.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$style.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$styleable.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/BaseActivity$1.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/BaseActivity.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$1.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$2.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$3.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$4.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/MainViewActivity$Tab.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/MainViewActivity.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/SplashActivity.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$anim.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$attr.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$color.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$dimen.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$drawable.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$id.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$integer.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$layout.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$menu.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$string.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$style.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$styleable.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment$RemoteDataTask.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment$RemoteDataTask.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment$SearchRunnable.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment$2$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment$2.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/ConversationFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ConversationFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/FragmentHint.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$2.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$3.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$4.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$5.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$6.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$7.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$8.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/ListFragmentResult$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ListFragmentResult$2.class&#10;&#9;dc-locator-android/bin/classes/fragment/ListFragmentResult.class&#10;&#9;dc-locator-android/bin/classes/fragment/MyProfileFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/MyProfileFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/MysupportFragment$TouchableWrapper.class&#10;&#9;dc-locator-android/bin/classes/fragment/MysupportFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/NewGroupFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment$4.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment$5.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment$6.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/TabbarFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/UserProFileFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/UserProFileFragment.class&#10;&#9;dc-locator-android/bin/classes/local/Datastore.class&#10;&#9;dc-locator-android/bin/classes/receiver/Receiver.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$1.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$CancelModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$ParseModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$PinModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$RestartModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService.class&#10;&#9;dc-locator-android/bin/classes/util/SharedPreferencesManager.class&#10;&#9;dc-locator-android/bin/classes/util/Utils$Tuple.class&#10;&#9;dc-locator-android/bin/classes/util/Utils.class&#10;&#9;dc-locator-android/bin/classes/wheel/widget/WheelView.class&#10;&#9;dc-locator-android/res/layout/login_layout.xml&#10;&#9;dc-locator-android/src/Asyncstask/LoginAsyncstask.java&#10;&#9;dc-locator-android/src/fragment/ChatsFragment.java&#10;&#9;dc-locator-android/src/fragment/HomeFragment.java&#10;&#9;dc-locator-android/src/util/Utils.java&#10;">
+      <created>1412911780747</created>
+      <updated>1412911780747</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge">
+      <created>1412912800258</created>
+      <updated>1412912800258</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Create Group">
+      <created>1412921667530</created>
+      <updated>1412921667530</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ok">
+      <created>1412926295796</created>
+      <updated>1412926295796</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ok">
+      <created>1412938179912</created>
+      <updated>1412938179912</updated>
+    </task>
+    <task id="LOCAL-00023" summary="push">
+      <created>1412946666242</created>
+      <updated>1412946666242</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ChatsFragment">
+      <created>1413021869744</created>
+      <updated>1413021869745</updated>
+    </task>
+    <task id="LOCAL-00025" summary="BaseFragment">
+      <created>1413112528616</created>
+      <updated>1413112528616</updated>
+    </task>
+    <task id="LOCAL-00026" summary="PushNotification">
+      <created>1413138307078</created>
+      <updated>1413138307078</updated>
+    </task>
+    <task id="LOCAL-00027" summary="PushNotification">
+      <created>1413138478084</created>
+      <updated>1413138478084</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Yolo">
+      <created>1413141745812</created>
+      <updated>1413141745812</updated>
+    </task>
+    <task id="LOCAL-00029" summary="m">
+      <created>1413202428894</created>
+      <updated>1413202428894</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Groups sorted">
+      <created>1413258355028</created>
+      <updated>1413258355028</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Groups sorted">
+      <created>1413262404270</created>
+      <updated>1413262404270</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Layouts">
+      <created>1413288923023</created>
+      <updated>1413288923023</updated>
+    </task>
+    <task id="LOCAL-00033" summary="DAOs">
+      <created>1413303820788</created>
+      <updated>1413303820788</updated>
+    </task>
+    <task id="LOCAL-00034" summary="DAOs">
+      <created>1413335273958</created>
+      <updated>1413335273958</updated>
+    </task>
+    <task id="LOCAL-00035" summary="SQLite">
+      <created>1413456908792</created>
+      <updated>1413456908792</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Marge">
+      <created>1413463988169</created>
+      <updated>1413463988169</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Search">
+      <created>1413515066214</created>
+      <updated>1413515066214</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Home">
+      <created>1413546736212</created>
+      <updated>1413546736212</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Change package name">
+      <created>1413778582254</created>
+      <updated>1413778582254</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="740" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35669783" sideWeight="0.37536657" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3364486" sideWeight="0.39956012" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35669783" sideWeight="0.62463343" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291789" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.45307916" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62305295" sideWeight="0.2983871" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22507331" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62305295" sideWeight="0.7016129" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52024925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24193548" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39875388" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25659823" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="100" y="100" width="1166" height="540" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Lazy Load" />
+    <MESSAGE value="Merge completes" />
+    <MESSAGE value="Add Crashlytics" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Merge branch 'master' of https://bitbucket.org/EvilGenius/dc-locator-android&#10;&#10;Conflicts:&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter$ItemListener.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter$ViewHolder.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListPersonAdapter$OnContactSelectListener.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/BaseActivity$1.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/BaseActivity.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment$RemoteDataTask.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment$SearchListener.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment$SearchRunnable.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/NewGroupFragment.class&#10;&#9;dc-locator-android/bin/classes/local/Datastore$Observer.class&#10;&#9;dc-locator-android/bin/classes/local/Datastore.class&#10;&#9;dc-locator-android/bin/classes/model/MessageGroups.class&#10;&#9;dc-locator-android/bin/classes/model/Messages.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$1.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService.class&#10;&#9;dc-locator-android/bin/classes/util/DialogManager.class&#10;&#9;dc-locator-android/bin/classes/util/Utils$Tuple.class&#10;&#9;dc-locator-android/gen/android/support/v7/appcompat/R.java&#10;&#9;dc-locator-android/gen/com/google/android/gms/R.java&#10;&#9;dc-locator-android/src/dc_locator/MainViewActivity.java&#10;&#9;google-play-services_lib/project.properties&#10;" />
+    <MESSAGE value="ParseService" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="Merge branch 'master' of https://bitbucket.org/EvilGenius/dc-locator-android&#10;&#10;Conflicts:&#10;&#9;dc-locator-android/bin/classes/Adapter/ChatListAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter$ItemListener.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ContactAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/HomeListAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListPersonAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListTabChatAdapter$MessageTask$1.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListTabChatAdapter$MessageTask.class&#10;&#9;dc-locator-android/bin/classes/Adapter/ListTabChatAdapter.class&#10;&#9;dc-locator-android/bin/classes/Adapter/SearchResultAdapter.class&#10;&#9;dc-locator-android/bin/classes/Asyncstask/LoginAsyncstask$1.class&#10;&#9;dc-locator-android/bin/classes/Asyncstask/LoginAsyncstask$2.class&#10;&#9;dc-locator-android/bin/classes/Asyncstask/LoginAsyncstask.class&#10;&#9;dc-locator-android/bin/classes/Dialog/CheckinDialog.class&#10;&#9;dc-locator-android/bin/classes/Dialog/WheelBirthdayDialog$1.class&#10;&#9;dc-locator-android/bin/classes/Dialog/WheelBirthdayDialog.class&#10;&#9;dc-locator-android/bin/classes/application/DCApplication.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$attr.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$color.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$drawable.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$id.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$integer.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$string.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$style.class&#10;&#9;dc-locator-android/bin/classes/com/google/android/gms/R$styleable.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/BaseActivity$1.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/BaseActivity.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$1.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$2.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$3.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity$4.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/LoginActivity.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/MainViewActivity$Tab.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/MainViewActivity.class&#10;&#9;dc-locator-android/bin/classes/dc_locator/SplashActivity.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$anim.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$attr.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$color.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$dimen.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$drawable.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$id.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$integer.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$layout.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$menu.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$string.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$style.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R$styleable.class&#10;&#9;dc-locator-android/bin/classes/evt/com/dc_locator/R.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment$RemoteDataTask.class&#10;&#9;dc-locator-android/bin/classes/fragment/AddContactFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment$RemoteDataTask.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment$SearchRunnable.class&#10;&#9;dc-locator-android/bin/classes/fragment/AllPeopleChatFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment$2$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment$2.class&#10;&#9;dc-locator-android/bin/classes/fragment/ChatsFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/ConversationFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ConversationFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/FragmentHint.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$2.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$3.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$4.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$5.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$6.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$7.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment$8.class&#10;&#9;dc-locator-android/bin/classes/fragment/HomeFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/ListFragmentResult$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/ListFragmentResult$2.class&#10;&#9;dc-locator-android/bin/classes/fragment/ListFragmentResult.class&#10;&#9;dc-locator-android/bin/classes/fragment/MyProfileFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/MyProfileFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/MysupportFragment$TouchableWrapper.class&#10;&#9;dc-locator-android/bin/classes/fragment/MysupportFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/NewGroupFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment$4.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment$5.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment$6.class&#10;&#9;dc-locator-android/bin/classes/fragment/SearchFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/TabbarFragment.class&#10;&#9;dc-locator-android/bin/classes/fragment/UserProFileFragment$1.class&#10;&#9;dc-locator-android/bin/classes/fragment/UserProFileFragment.class&#10;&#9;dc-locator-android/bin/classes/local/Datastore.class&#10;&#9;dc-locator-android/bin/classes/receiver/Receiver.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$1.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$CancelModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$ParseModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$PinModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService$RestartModule.class&#10;&#9;dc-locator-android/bin/classes/service/ParseService.class&#10;&#9;dc-locator-android/bin/classes/util/SharedPreferencesManager.class&#10;&#9;dc-locator-android/bin/classes/util/Utils$Tuple.class&#10;&#9;dc-locator-android/bin/classes/util/Utils.class&#10;&#9;dc-locator-android/bin/classes/wheel/widget/WheelView.class&#10;&#9;dc-locator-android/res/layout/login_layout.xml&#10;&#9;dc-locator-android/src/Asyncstask/LoginAsyncstask.java&#10;&#9;dc-locator-android/src/fragment/ChatsFragment.java&#10;&#9;dc-locator-android/src/fragment/HomeFragment.java&#10;&#9;dc-locator-android/src/util/Utils.java&#10;" />
+    <MESSAGE value="Merge" />
+    <MESSAGE value="Create Group" />
+    <MESSAGE value="ok" />
+    <MESSAGE value="push" />
+    <MESSAGE value="ChatsFragment" />
+    <MESSAGE value="BaseFragment" />
+    <MESSAGE value="PushNotification" />
+    <MESSAGE value="Yolo" />
+    <MESSAGE value="m" />
+    <MESSAGE value="Groups sorted" />
+    <MESSAGE value="Layouts" />
+    <MESSAGE value="DAOs" />
+    <MESSAGE value="SQLite" />
+    <MESSAGE value="Marge" />
+    <MESSAGE value="Search" />
+    <MESSAGE value="Home" />
+    <MESSAGE value="Change package name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change package name" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../wordrific-android/Wordrific/app/src/main/java/com/evilgeniustechnologies/Wordrific/activities/FriendActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="452" max-vertical-offset="1512">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../wordrific-android/Wordrific/app/src/main/java/com/evilgeniustechnologies/Wordrific/adapters/RootAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.089171976" vertical-offset="56" max-vertical-offset="684">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../wordrific-android/Wordrific/app/src/main/java/com/evilgeniustechnologies/Wordrific/adapters/FriendAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="3816">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/member_item_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/navigation_add_contact.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="936">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/navigation_chat_fragment_search_member.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.923077" vertical-offset="0" max-vertical-offset="576">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/navigation_search_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///opt/android-sdk/sources/android-19/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33280253" vertical-offset="28501" max-vertical-offset="54324">
+          <caret line="1823" column="29" selection-start-line="1823" selection-start-column="29" selection-end-line="1823" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/greendao-1.3.7-sources.jar!/de/greenrobot/dao/query/QueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33280253" vertical-offset="1033" max-vertical-offset="7128">
+          <caret line="96" column="27" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/navigation_search_fragment_result.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///opt/android-sdk/platforms/android-19/data/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33280253" vertical-offset="13759" max-vertical-offset="45720">
+          <caret line="776" column="17" selection-start-line="776" selection-start-column="17" selection-end-line="776" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/default_2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///opt/android-sdk/sources/android-19/android/location/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8676">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/Parse-1.7.0.jar!/com/parse/ParseObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34660032" vertical-offset="2275" max-vertical-offset="7614">
+          <caret line="139" column="22" selection-start-line="139" selection-start-column="22" selection-end-line="139" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/generator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37261146" vertical-offset="0" max-vertical-offset="3438">
+          <caret line="16" column="73" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/SearchFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3800" max-vertical-offset="4428">
+          <caret line="261" column="54" selection-start-line="261" selection-start-column="54" selection-end-line="261" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_chat.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/add_contact.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5681063" vertical-offset="0" max-vertical-offset="2214">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/all_member_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="602">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bar_new_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/chat_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4086378" vertical-offset="1450" max-vertical-offset="2052">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/checkin_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.857143" vertical-offset="2322" max-vertical-offset="3618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dialog_wheel_birthday.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.358804" vertical-offset="216" max-vertical-offset="1404">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/edit_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.857143" vertical-offset="1720" max-vertical-offset="2322">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_chat.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4615383" vertical-offset="154" max-vertical-offset="756">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_hint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44850498" vertical-offset="0" max-vertical-offset="602">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_list_result.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50830567" vertical-offset="0" max-vertical-offset="602">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/infor_windows_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41860464" vertical-offset="0" max-vertical-offset="1044">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/home_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_conversation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.384615" vertical-offset="1234" max-vertical-offset="1836">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_search_person_tab_search.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4950166" vertical-offset="388" max-vertical-offset="990">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/login_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.857143" vertical-offset="1720" max-vertical-offset="2322">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="602">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_person_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6710963" vertical-offset="550" max-vertical-offset="1152">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/my_profile_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2159467" vertical-offset="2538" max-vertical-offset="4770">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/navagation_new_group_next.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029900333" vertical-offset="324" max-vertical-offset="936">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/wheel_text_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="602">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/tabbar_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4385383" vertical-offset="1468" max-vertical-offset="2070">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/search_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1362126" vertical-offset="172" max-vertical-offset="4176">
+          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/new_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3621262" vertical-offset="820" max-vertical-offset="1422">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_contact.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36378738" vertical-offset="249" max-vertical-offset="864">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="2466">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#5295#5319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/ChatsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="812" max-vertical-offset="1602">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/NewGroupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1584">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5006" max-vertical-offset="8172">
+          <caret line="381" column="21" selection-start-line="381" selection-start-column="21" selection-end-line="381" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/ListFragmentResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="943" max-vertical-offset="1584">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/adapters/SearchResultAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1350">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/navigation_home_user_profile_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="270" max-vertical-offset="882">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/evilgeniustechnologies/dclocator/fragments/UserProFileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0325814" vertical-offset="1478" max-vertical-offset="2106">
+          <caret line="132" column="56" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>dc-locator-android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android (dc-locator-android)|Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.4.2 Google APIs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dc-locator-android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 8 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Parse-1.7.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
